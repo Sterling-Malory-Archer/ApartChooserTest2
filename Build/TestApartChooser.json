@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "TestApartChooser.data.unityweb",
+"asmCodeUrl": "TestApartChooser.asm.code.unityweb",
+"asmMemoryUrl": "TestApartChooser.asm.memory.unityweb",
+"asmFrameworkUrl": "TestApartChooser.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
